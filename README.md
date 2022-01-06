@@ -1,4 +1,7 @@
 # Ami
+
+[![Join the chat at https://gitter.im/sparetimedevs/ami](https://badges.gitter.im/sparetimedevs/ami.svg)](https://gitter.im/sparetimedevs/ami?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Accessible music information
 
 <img style="float: right;" src="img/ami.png" alt="Ami" width="120">
